@@ -29,4 +29,6 @@ myTest();
 echo "<p>Variable x  function is: $x</p>";
 echo "<p>Variable y  function is: $y</p>";
 echo "<p>Variable y  function is: $y</p>";
+echo "<p>Variable z   is: $y</p>";
+
 ?>
