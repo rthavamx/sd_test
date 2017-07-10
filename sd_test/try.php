@@ -16,7 +16,7 @@ function myTest2() {
 	   $y =20;
 	   global $x;
 	   $y = $x+$y;
-    echo "<p>Variable x  function is: $x</p>";
+    
 	echo "<p>Variable y  function is: $y</p>";
 	print "$x";
 	print "$x";
